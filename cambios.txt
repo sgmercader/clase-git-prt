@@ -1,2 +1,2 @@
 hola
-cambio 4
+cambio master x=2
